@@ -1,4 +1,4 @@
-from binary_tree import BinaryTree
+from Binary_Tree import BinaryTree
 
 tree = BinaryTree()
 tree.adicionar(3)

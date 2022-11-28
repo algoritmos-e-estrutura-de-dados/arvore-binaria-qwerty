@@ -2,7 +2,7 @@ from node import Node
 
 
 class BinaryTree:
-    def __init__(self):
+    def init(self):
         self.valor = None
     def getRoot(self):
         return self.root
